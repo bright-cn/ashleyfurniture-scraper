@@ -1,0 +1,52 @@
+[
+  {
+    "db_source": "1776369145619",
+    "timestamp": "2026-04-16",
+    "product_name": "Nourison Home Aloha 6' x 9' Blue/Multicolor Tropical Indoor/Outdoor Rug",
+    "brand": "Nourison Home",
+    "initial_price": 140.99,
+    "final_price": 140.99,
+    "currency": "USD",
+    "in_stock": true
+  },
+  {
+    "db_source": "1776369145619",
+    "timestamp": "2026-04-16",
+    "product_name": "Nourison Home Essentials 5' x 7' Yellow Outdoor Indoor/Outdoor Rug",
+    "brand": "Nourison Home",
+    "initial_price": 94.99,
+    "final_price": 94.99,
+    "currency": "USD",
+    "in_stock": true
+  },
+  {
+    "db_source": "1776369145619",
+    "timestamp": "2026-04-16",
+    "product_name": "Nourison Home Passion 4' x Round Denim Bohemian Indoor Rug",
+    "brand": "Nourison Home",
+    "initial_price": 50.99,
+    "final_price": 50.99,
+    "currency": "USD",
+    "in_stock": true
+  },
+  {
+    "db_source": "1776369145619",
+    "timestamp": "2026-04-16",
+    "product_name": "Jonnifer Full Panel Bed",
+    "brand": "Ashley",
+    "initial_price": 279.99,
+    "final_price": 279.99,
+    "currency": "USD",
+    "in_stock": true
+  },
+  {
+    "db_source": "1776369145619",
+    "timestamp": "2026-04-16",
+    "product_name": "Jonnifer Twin Panel Bed",
+    "brand": "Ashley",
+    "initial_price": 229.99,
+    "final_price": 229.99,
+    "currency": "USD",
+    "in_stock": true
+  }
+]
